@@ -1,0 +1,4 @@
+Total records in ARFF file: 400
+Records successfully parsed: 399
+Records dropped (malformed field count): 1
+  Dropped row index 369: 75,70,1.020,0,0,normal,normal,notpresent,notpresent,107,48,0.8,144,3.5,13.6,46,10300,4.8,no,,no,no,good,no,no,notckd
